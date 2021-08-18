@@ -1,0 +1,15 @@
+/Users/carlosbarcelos/Documents/2021/POO/Aula2/bin/Debug/net5.0/Aula2.deps.json
+/Users/carlosbarcelos/Documents/2021/POO/Aula2/bin/Debug/net5.0/Aula2.runtimeconfig.json
+/Users/carlosbarcelos/Documents/2021/POO/Aula2/bin/Debug/net5.0/Aula2.runtimeconfig.dev.json
+/Users/carlosbarcelos/Documents/2021/POO/Aula2/bin/Debug/net5.0/Aula2.dll
+/Users/carlosbarcelos/Documents/2021/POO/Aula2/bin/Debug/net5.0/ref/Aula2.dll
+/Users/carlosbarcelos/Documents/2021/POO/Aula2/bin/Debug/net5.0/Aula2.pdb
+/Users/carlosbarcelos/Documents/2021/POO/Aula2/obj/Debug/net5.0/Aula2.csproj.AssemblyReference.cache
+/Users/carlosbarcelos/Documents/2021/POO/Aula2/obj/Debug/net5.0/Aula2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/carlosbarcelos/Documents/2021/POO/Aula2/obj/Debug/net5.0/Aula2.AssemblyInfoInputs.cache
+/Users/carlosbarcelos/Documents/2021/POO/Aula2/obj/Debug/net5.0/Aula2.AssemblyInfo.cs
+/Users/carlosbarcelos/Documents/2021/POO/Aula2/obj/Debug/net5.0/Aula2.csproj.CoreCompileInputs.cache
+/Users/carlosbarcelos/Documents/2021/POO/Aula2/obj/Debug/net5.0/Aula2.dll
+/Users/carlosbarcelos/Documents/2021/POO/Aula2/obj/Debug/net5.0/ref/Aula2.dll
+/Users/carlosbarcelos/Documents/2021/POO/Aula2/obj/Debug/net5.0/Aula2.pdb
+/Users/carlosbarcelos/Documents/2021/POO/Aula2/obj/Debug/net5.0/Aula2.genruntimeconfig.cache
